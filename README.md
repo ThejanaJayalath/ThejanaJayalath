@@ -1,5 +1,8 @@
 # 💫 About Me:
-🎓 Software Engineering Undergraduate @ IIT Sri Lanka (University of Westminster)  <br>💻 Passionate about building real-world, user-focused applications  <br>🚀 Always learning, always building  
+🎓 Software Engineering Undergraduate @ IIT Sri Lanka (University of Westminster)  <br>
+💻 Focused on full-stack development and building scalable applications  <br>
+🚀 Turning real-world problems into practical software solutions  <br>
+⚡ Always learning, always building  
 
 
 ## 🌐 Socials:
